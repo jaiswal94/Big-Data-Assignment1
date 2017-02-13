@@ -1,0 +1,33 @@
+Q1
+various sources of big data are:-
+-Archives of scanned document,medical report etc.
+-social media like facebook,twitter etc.
+-New York stock Exchange
+-media like images,videos,audio etc.
+-Public web like government,health care services,traffic,weather etc.
+-Machine log data like call detail records,mobile log,moblie application etc.
+
+
+
+Q2
+Three V's of big data are:-
+a)velocity-The rate at which the data are created and changed.
+b)variety:-The number of different data sources and types.
+c)volume:- The average quantity of data units per category.
+
+
+
+Q3
+Horizontal scaling-It is the ability to increase capacity by connecting multiple hardware or 
+software entities so that they work as a single logical unit. it is also called scale out.
+Example for horizontal scaling is Cassandra , MongoDB etc.
+
+vertical scaling-This increases capacity by adding more resources, such as more memory or an additional CPU, to a machine.
+It is also called scaling up.
+Example for vertical scaling is MySQL - Amazon RDS (The cloud version of MySQL).
+
+
+
+Q4
+Hadoop is an open source, Java-based programming framework that supports the processing of
+large data sets in a distributed computing environment.It provides reliable, scalable platform for storage and analysis.It is based on Google File System or GFS
